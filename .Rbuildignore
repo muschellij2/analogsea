@@ -11,3 +11,4 @@ man-roxygen
 docs
 ^codemeta\.json$
 ^Makefile$
+^analogsea\.Rproj$
