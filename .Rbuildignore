@@ -11,3 +11,5 @@ man-roxygen
 docs
 ^codemeta\.json$
 ^Makefile$
+vignettes/analogsea.Rmd
+^LICENSE\.md$
